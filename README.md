@@ -1,1 +1,2 @@
 # SnakeGame
+Music: *.wav
